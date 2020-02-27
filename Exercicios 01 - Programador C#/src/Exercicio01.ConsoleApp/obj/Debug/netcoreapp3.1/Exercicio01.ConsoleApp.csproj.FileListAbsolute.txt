@@ -1,0 +1,11 @@
+D:\ARQUIVOS\Desktop\Exercicios\src\Exercicio01.ConsoleApp\bin\Debug\netcoreapp3.1\Exercicio01.ConsoleApp.exe
+d:\ARQUIVOS\Desktop\Exercicios\src\Exercicio01.ConsoleApp\bin\Debug\netcoreapp3.1\Exercicio01.ConsoleApp.deps.json
+d:\ARQUIVOS\Desktop\Exercicios\src\Exercicio01.ConsoleApp\bin\Debug\netcoreapp3.1\Exercicio01.ConsoleApp.runtimeconfig.json
+d:\ARQUIVOS\Desktop\Exercicios\src\Exercicio01.ConsoleApp\bin\Debug\netcoreapp3.1\Exercicio01.ConsoleApp.runtimeconfig.dev.json
+D:\ARQUIVOS\Desktop\Exercicios\src\Exercicio01.ConsoleApp\bin\Debug\netcoreapp3.1\Exercicio01.ConsoleApp.dll
+D:\ARQUIVOS\Desktop\Exercicios\src\Exercicio01.ConsoleApp\bin\Debug\netcoreapp3.1\Exercicio01.ConsoleApp.pdb
+D:\ARQUIVOS\Desktop\Exercicios\src\Exercicio01.ConsoleApp\obj\Debug\netcoreapp3.1\Exercicio01.ConsoleApp.csprojAssemblyReference.cache
+D:\ARQUIVOS\Desktop\Exercicios\src\Exercicio01.ConsoleApp\obj\Debug\netcoreapp3.1\Exercicio01.ConsoleApp.AssemblyInfoInputs.cache
+D:\ARQUIVOS\Desktop\Exercicios\src\Exercicio01.ConsoleApp\obj\Debug\netcoreapp3.1\Exercicio01.ConsoleApp.AssemblyInfo.cs
+D:\ARQUIVOS\Desktop\Exercicios\src\Exercicio01.ConsoleApp\obj\Debug\netcoreapp3.1\Exercicio01.ConsoleApp.dll
+D:\ARQUIVOS\Desktop\Exercicios\src\Exercicio01.ConsoleApp\obj\Debug\netcoreapp3.1\Exercicio01.ConsoleApp.pdb
